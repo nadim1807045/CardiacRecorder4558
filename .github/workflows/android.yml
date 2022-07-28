@@ -1,4 +1,4 @@
-name: Cardio Tracker CI
+name: CardiacRecorder CI
 
 on:
   push:
